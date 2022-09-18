@@ -1,0 +1,256 @@
+body {
+    overflow-x: hidden;
+}
+.general {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    font-size: 15px;
+    background-color: #F7F6F4;
+}
+.general div a {
+    text-decoration: none;
+}
+.div1 {
+    display: flex;
+    gap: 50px;
+    width: 45%;
+    margin: auto;
+}
+.div2 {
+    display: flex;
+    width: 45%;
+    margin: auto;
+    align-items: center;
+    gap: 20px;
+}
+.navbar {
+    background-color: #EDE8D9;
+    margin-right: 100px;
+
+}
+.navbar-nav {
+    gap: 20px;
+    margin-right: 100px;
+}
+.hero {
+    background-color: #EDE8D9;
+    padding-left: 50px;
+}
+.form-control {
+    height: 80px;
+}
+#icon {
+    margin: -100px 0px 0px 430px;
+}
+#text {
+    font-size: 4.2rem;
+    font-family: "dm serif display",serif;
+    color: #384a62;
+    font-weight: 600;
+}
+#pag {
+    color: #708095;
+    font-family: SF Pro,sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-bottom: 2.25rem;
+}
+#leb {
+    letter-spacing: .04em;
+    font-weight: 700;
+    color: rgba(56,74,98,var(--tw-text-opacity));
+    margin-bottom: 0.25rem;
+}
+.over {
+    text-decoration: none;
+    color: #d77f81;
+    line-height: 2.2;
+}
+.rill {
+    width: 85%;
+    margin: auto !important;
+    gap: 20px !important;
+    margin-top: 3% !important;
+}
+.jit {
+    margin-top: 3% !important;
+}
+.pic {
+    height: 180px;
+}
+.key {
+    height: 180px;
+}
+.card {
+    overflow: hidden;
+}
+.card img {
+    transition: all 0.5s ease;
+}
+.card:hover img {
+    transform: scale(1.2);
+
+}
+.card-title {
+    color: #384a62;
+    margin-bottom: 1.25rem;
+    font-size: 16px;
+    font-family: SF Pro,sans-serif;
+    letter-spacing: .04em;
+}
+.men {
+    color: #708095;
+    font-weight: 500;
+}
+#per {
+    font-size: 16px;
+    color: #708095;
+}
+.btn {
+    background-color: #D77F81 !important;
+    padding: 10px 14px;
+}
+.fut {
+    color: #384a62;
+    font-family: "dm serif display",serif;
+}
+.div211 {
+    height: 160px;
+}
+#crown {
+    width: 40px;
+    height: 30px;
+}
+.peel {
+    padding: 60px 0px 0px 50px;
+}
+.fed {
+    color: #384a62;
+    font-family: "dm serif display",serif;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+.fag {
+    color: #506683;
+    max-width: 650px;
+    font-family: SF Pro,sans-serif;
+    font-weight: 550;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+.div229 {
+    padding: 50px 0px 50px 50px;
+    background-color: #EAF6FD;
+}
+.card-body {
+    font-size: 15px;
+    font-weight: 500;
+}
+.fig {
+    font-size: 17px;
+    font-weight: 400;
+}
+.how {
+    color: #384a62;
+    font-family: "dm serif display",serif;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+}
+.peek {
+    padding: 0px 0px 30px 20px;
+    gap: 30px;
+}
+.size {
+    width: 30px;
+    height: 30px
+}
+.div270 {
+    padding: 150px 0px 70px 50px;
+}
+.siz {
+    width: 90px;
+    height: 60px;
+}
+.div272 {
+    gap: 40px;
+}
+.div276 {
+    color: #384a62;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-family: SF Pro,sans-serif;
+    font-weight: 600;
+}
+.div291 {
+    color: #677f9e;
+    max-width: 240px;
+    font-size: 15.5px;
+    font-family: SF Pro,sans-serif;
+    font-weight: 400;
+}
+.div317 {
+    color: #384a62;
+    font-size: 15px;
+    font-family: SF Pro,sans-serif;
+    font-weight: 600;
+}
+.div313 {
+    color: #384a62;
+    font-family: "dm serif display",serif;
+    font-size: 2rem;
+    line-height: 2.25rem;
+    font-weight: 550;
+    padding-bottom: 20px;
+}
+.div312 {
+    background: #f7f6f4;
+    padding: 80px 0px 80px 50px;
+}
+.div338 {
+    background-color: #EDE8D9;
+    padding: 70px 0px 70px 50px;
+}
+.div344 {
+    color: #fff;
+    background: #384a62;
+    padding: 17px 30px;
+    border-radius: 3px;
+    right: 10px;
+    top: 50%;
+    margin-left: -165px;
+}
+::placeholder {
+    font-weight: 500;
+    padding-left: 20px;
+}
+.div339 {
+    font-family: SF Pro,sans-serif;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+}
+.div349 {
+    background: #384a62;
+    padding: 80px;
+}
+.div349 div a {
+    text-decoration: none;
+    font-size: .975rem !important;
+    line-height: 1.25rem !important;
+    padding-bottom: 0.5rem !important;
+}
+.last {
+    background: #cbcac8;
+    color: #384a62;
+    font-family: SF Pro,sans-serif;
+    font-weight: 400;
+    padding: 2rem 0rem 2rem 0rem;
+}
+.pie {
+    text-align: center;
+}
